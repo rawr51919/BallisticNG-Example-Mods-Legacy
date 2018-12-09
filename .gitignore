@@ -1,0 +1,6 @@
+ModsNG/
+*.csproj
+*.sln
+*.cache
+Custom Shield/Properties/AssemblyInfo.cs
+Custom Shield/obj/
