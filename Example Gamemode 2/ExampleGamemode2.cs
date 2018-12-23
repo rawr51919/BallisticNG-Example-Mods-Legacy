@@ -6,8 +6,6 @@ using GameData;
 using GameData.Constants;
 using Settings;
 using UnityEngine;
-using Source.NgCampaign;
-using Source.NgCampaign.Ui;
 using BallisticSource.Mods;
 
 namespace BallisticNG.ExampleMods
